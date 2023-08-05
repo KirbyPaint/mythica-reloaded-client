@@ -1,0 +1,16 @@
+assets/
+bin/
+clientId.txt
+crash-reports/
+journeymap/
+launcher_*
+libraries/
+logs/
+resourcepacks/
+servers.dat
+servers.dat_old
+treatment_tags.json
+updateLog.txt
+updateSourceCache.json
+versions/
+webcache2/
