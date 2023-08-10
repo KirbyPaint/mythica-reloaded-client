@@ -7,7 +7,7 @@
 	#Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
-	byDefault = true
+	byDefault = false
 	#Inventory HUD vertical mode
 	invVert = false
 	#Animate recently picked up items
@@ -50,7 +50,7 @@
 #Settings for Potions HUD
 [potionshud]
 	#Is Potions HUD enabled
-	Potions = true
+	Potions = false
 	#Potion HUD gap
 	#Range: -5 ~ 5
 	potGap = 0
