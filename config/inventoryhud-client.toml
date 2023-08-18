@@ -75,7 +75,7 @@
 	invVal = "BOTTOM"
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 20
+	yPotionPos = 24
 	#OffHand vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	offVal = "BOTTOM"
@@ -147,7 +147,7 @@
 	mainPosY = 71
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 20
+	xPotionPos = 12
 	#Chestplate position (X)
 	#Range: -9999 ~ 9999
 	chestPosX = 103

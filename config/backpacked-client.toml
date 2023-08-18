@@ -2,5 +2,5 @@
 hideConfigButton = false
 #The alignment of the buttons in the backpack inventory screen
 #Allowed Values: LEFT, RIGHT
-buttonAlignment = "RIGHT"
+buttonAlignment = "LEFT"
 
